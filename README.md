@@ -4,7 +4,7 @@
 I'm Thiago Montezano! </h2>
 <img src="https://media.giphy.com/media/26FL0ydLDEcARWY0g/giphy.gif" width="240">
 <br>
-<p><em>Technical Software Engineering Manager at <a href="http://www.bancopan.com.br">Mercado Livre</a></em></p>
+<p><em>Technical Software Engineering Manager at <a href="http://www.mercadolivre.com.br">Mercado Livre</a></em></p>
 
 
 <a target="_blank" href="https://www.linkedin.com/in/tmontezano/">
